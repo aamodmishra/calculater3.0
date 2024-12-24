@@ -1,7 +1,6 @@
-let num1=prompt("Enter an integer:");
-let num2=prompt("Enter an second integer:");
-// let userInput1=prompt("Enter an integer:");
-// let userInput2 =prompt("Enter an second integer:");
+let userInput1=prompt("Enter an integer:");
+let userInput2=prompt("Enter an second integer:");
+
 num1 = parseInt(userInput1, 10);
 num2 =parseInt(userInput2,10)
 document.getElementById("num1-el").innerHTML=num1  +","
