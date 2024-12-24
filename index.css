@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(102, 105, 99);
+}
+
+.numbers{
+    background-color: aqua;
+    margin-left: 700px;
+    margin-right: 300px;
+    width: 100px;
+    text-align: center;
+}
+
+.add-btn{
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: rgb(237, 240, 239);
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 550px;
+    margin-top: 300px;
+    background-color: rgb(23, 223, 5);
+}
+.sub-btn{
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: rgb(248, 248, 249);
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left:20px;
+    margin-top: 300px;
+    background-color: rgb(219, 8, 29);
+}
+
